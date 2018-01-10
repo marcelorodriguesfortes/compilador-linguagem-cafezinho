@@ -1,0 +1,11 @@
+
+programa {
+   
+   car a,d,d;
+   int c;
+   
+
+   
+   escreva a;
+   
+}
